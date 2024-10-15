@@ -34,4 +34,8 @@ boolean isJavaFun = true;  // 참 또는 거짓
 boolean isAdult = false;
 ```
 
-###
+### 6. 문자열타입
+```java
+String greeting = "Hello, World!";
+String fullName = "John Doe";
+```
