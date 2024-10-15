@@ -28,3 +28,10 @@ char letter = 'A';  // 단일 문자
 char symbol = '#';  // 기호 문자
 ```
 
+### 5. 논리타입
+```java
+boolean isJavaFun = true;  // 참 또는 거짓
+boolean isAdult = false;
+```
+
+###
