@@ -3,7 +3,7 @@
 ## 변수선언, 데이터 타입
 
 ### 1. 변수선언
-```
+```java
 int age = 25;      // 정수형 변수 선언
 double height = 180.5;  // 실수형 변수 선언
 String name = "Alice";  // 문자열 변수 선언
