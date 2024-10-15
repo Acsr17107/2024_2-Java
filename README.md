@@ -21,3 +21,10 @@ long largeNumber = 123456789L;  // 8바이트 정수 (L 필요)
 float weight = 65.5F;  // 4바이트 실수 (F 필요)
 double pi = 3.141592653589793;  // 8바이트 실수
 ```
+
+### 4. 문자타입
+```java
+char letter = 'A';  // 단일 문자
+char symbol = '#';  // 기호 문자
+```
+
