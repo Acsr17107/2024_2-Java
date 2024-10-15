@@ -8,9 +8,16 @@ int age = 25;      // 정수형 변수 선언
 double height = 180.5;  // 실수형 변수 선언
 String name = "Alice";  // 문자열 변수 선언
 ```
+
 ### 2. 정수타입
 ```java
 byte smallNumber = 100;  // 1바이트 정수
 int number = 123456;     // 4바이트 정수
 long largeNumber = 123456789L;  // 8바이트 정수 (L 필요)
+```
+
+### 3. 실수타입
+```java
+float weight = 65.5F;  // 4바이트 실수 (F 필요)
+double pi = 3.141592653589793;  // 8바이트 실수
 ```
