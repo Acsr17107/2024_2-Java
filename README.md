@@ -12,18 +12,6 @@ String name = "Alice";  // 문자열 변수 선언
 #### 2. 정수타입
 
 ```java
-char letter = 'A';  // 단일 문자
-char symbol = '#';  // 기호 문자
-```
-
-#### 5. 논리타입
-```java
-boolean isJavaFun = true;  // 참 또는 거짓
-boolean isAdult = false;
-```
-
-#### 6. 문자열타입
-```java
 String greeting = "Hello, World!";
 String fullName = "John Doe";
 ```
