@@ -8,10 +8,3 @@ int age = 25;      // 정수형 변수 선언
 double height = 180.5;  // 실수형 변수 선언
 String name = "Alice";  // 문자열 변수 선언
 ```
-
-#### 2. 정수타입
-
-```java
-String greeting = "Hello, World!";
-String fullName = "John Doe";
-```
